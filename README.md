@@ -4,7 +4,7 @@
 ## Schematic Diagram
 
 <p align="center">
-  <img src="home_automation.SVG"/>
+  <img src="home_automation.svg"/>
   </p>
 
 ## License
